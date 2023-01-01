@@ -1,0 +1,11 @@
+﻿  button.cpp
+C:\Users\alexa\source\repos\Tutorial\Tutorial\button.cpp(10,15): warning C4551: function call missing argument list
+C:\Users\alexa\source\repos\Tutorial\Tutorial\button.cpp(17,16): warning C4551: function call missing argument list
+C:\Users\alexa\source\repos\Tutorial\Tutorial\button.cpp(17,30): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\alexa\source\repos\Tutorial\Tutorial\button.cpp(28,91): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\alexa\source\repos\Tutorial\Tutorial\button.cpp(34,91): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 163 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial.vcxproj -> C:\Users\alexa\source\repos\Tutorial\bin\Tutorial.exe
